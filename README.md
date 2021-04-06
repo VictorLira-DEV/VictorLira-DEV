@@ -27,10 +27,5 @@
 
 - :email: victorliradev@gmail.com
 
-<p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/VictorLira-DEV/count.svg" />
- </p>
 
