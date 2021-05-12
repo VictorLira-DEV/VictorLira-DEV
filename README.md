@@ -7,7 +7,7 @@
 
 <!-- TODO: Add last video link -->
 
-- I'm from Brazil, 23 yo
+- I'm from Brazil, 24 yo
 - I'm focusing on Front-End Development
 - I love Music and Reading ;)
 - 📫 How to reach me: victorliradev@gmail.com.
