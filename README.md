@@ -9,7 +9,8 @@
 
 - I'm from Brazil, 24 yo
 - I'm focusing on Front-End Development
-- I love Music and Reading ;)
+- I wanna be able to help people getting their projects out of paper
+- I love coding and foreign languages ;)
 - 📫 How to reach me: victorliradev@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
