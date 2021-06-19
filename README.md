@@ -7,7 +7,6 @@
 
 <!-- TODO: Add last video link -->
 
-- I'm from Brazil, 24 yo
 - I'm focusing on Front-End Development
 - I wanna be able to help people getting their projects out of paper
 - I love coding and foreign languages ;)
