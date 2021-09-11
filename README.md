@@ -13,8 +13,8 @@
 - I wanna be able to help people getting their projects out of paper
 - I love coding and foreign languages ;)
 - 📫 How to reach me: victorliradev@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
+<!-- - ⚡ Fun fact: I play games and go to the GYM very often.
+ -->
 #### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
