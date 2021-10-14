@@ -38,7 +38,7 @@
 
 
 
-#### Bizness
+#### Business
 
 - :email: victorliradev@gmail.com
 
