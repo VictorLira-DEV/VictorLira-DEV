@@ -8,11 +8,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lira-front-end/) [![Mail Badge](https://img.shields.io/badge/-victorliradev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorliradev@gmail.com)
 
 <!-- TODO: Add last video link -->
-<!--  <div>
+ <div>
   <a href="https://github.com/VictorLira-DEV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorLira-DEV&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLira-DEV&layout=compact&langs_count=7&theme=aura"/>
-</div> -->
+</div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
  <h3>Linguagens e Tecnologias </h3>
