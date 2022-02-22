@@ -5,7 +5,9 @@
 
 :mailbox: Reach me out!
 
+[![Code drops JS](https://img.shields.io/badge/-YoutubeChannel-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfuJfrn550tQxt62QmQ7dlw)
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lira-front-end/) [![Mail Badge](https://img.shields.io/badge/-victorliradev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorliradev@gmail.com)
+
 
 <!-- TODO: Add last video link -->
  <div>
