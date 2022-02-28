@@ -5,9 +5,17 @@
 
 :mailbox: Reach me out!
 
-[![Code drops JS](https://img.shields.io/badge/-YoutubeChannel-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfuJfrn550tQxt62QmQ7dlw)
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lira-front-end/) [![Mail Badge](https://img.shields.io/badge/-victorliradev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorliradev@gmail.com)
-
+<br>
+  <div  align="start"> 
+  <a href = "https://www.youtube.com/channel/UCfuJfrn550tQxt62QmQ7dlw"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-lira-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:victorliradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/victorliradev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ 
+  
+  
+</div>
+ <br>
 
 <!-- TODO: Add last video link -->
  <div>
@@ -48,10 +56,10 @@
  -->
 
 
-
+<!-- 
 #### Business
 
 - :email: victorliradev@gmail.com
 
 
-
+ -->
