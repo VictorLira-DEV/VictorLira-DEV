@@ -1,8 +1,5 @@
 ## Hello World, I'm Victor   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
-
-
 :mailbox: Reach me out!
 
 <br>
@@ -48,18 +45,3 @@
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
 </div>
-
-
-
-<!-- [![HTML Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)    [![Typescript Badge](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=blue)](#) [![Sass Badge](https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6699)](#)   [![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=black&logo=html5&logoColor=f67c01)](#) [![Css Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=black&logo=css3&logoColor=30ace0)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8612fb?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8612fb)](#) 
-
- -->
-
-
-<!-- 
-#### Business
-
-- :email: victorliradev@gmail.com
-
-
- -->
