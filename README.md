@@ -1,7 +1,6 @@
 ## Hello World, I'm Victor   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 :mailbox: Reach me out!
-
 <br>
   <div  align="start"> 
  <a href="https://www.youtube.com/channel/UCfuJfrn550tQxt62QmQ7dlw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
