@@ -1,4 +1,4 @@
-## Hello World, I'm Victor   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
 :mailbox: Reach me out!
 <br>
